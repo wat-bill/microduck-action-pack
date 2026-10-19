@@ -5,6 +5,12 @@ community. Command-level motion only: no new policy, no direct joint control —
 sequence drives the `head_pose` and `body_pose` command channels and the policy keeps
 the robot balanced by itself.
 
+## Demo
+
+![rhythm dance demo](media/demo.webp)
+
+*15-second loop (played at ×2 speed). Full details below.*
+
 ---
 
 ## Files
